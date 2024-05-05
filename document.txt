@@ -1,0 +1,7 @@
+- to filter out development of the projects you can use command "pnpm --filter {project name} run dev"or "yarn workspace {project name} web run dev"  this is pnpm & yarn command conver it into npm 
+command for adding to root workspace : "yarn -w add -D {name of module}"
+
+- see the demo project for the implementations
+
+- read document that is important : 
+{ https://turbo.build/repo/docs/getting-started/add-to-project }
